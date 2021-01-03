@@ -9,4 +9,5 @@
   ![GIT](https://img.shields.io/badge/git-230f39?style=flat-square&logo=git&logoColor=ff3929) 
   ![React-Router](https://img.shields.io/badge/React--Router-230f39?style=flat-square&logo=react-router&logoColor=fb494a) 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-230f39?style=flat-square&logo=Bootstrap&logoColor=8c57d9) 
+  ![Prettier](https://img.shields.io/badge/Prettier-230f39?style=flat-square&logo=Prettier&logoColor=f6b83c) 
 
