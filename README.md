@@ -12,5 +12,17 @@
   ![Prettier](https://img.shields.io/badge/Prettier-230f39?style=flat-square&logo=Prettier&logoColor=f6b83c) 
   
 ### Мои работы:  
+  * Приложение чат на React/Redux [КОД](https://github.com/Amazaev77/new-chat) [ДЕМО](https://pacific-dawn-92338.herokuapp.com/)
+  * Приложение чат на React/Redux [КОД](https://github.com/Amazaev77/test-app) [ДЕМО](https://shielded-reef-71937.herokuapp.com/)
+  * Верстки [uber](https://amazaev77.github.io/Uber/) [home-construction](https://amazaev77.github.io/home-construction/)
+  
+## Связаться со мной
+
+[![](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white&&s=250)](https://wa.me/799899231400)
+[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t-do.ru/Amazaev77)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&&s=250)](https://instagram.com/askhab.0.1?=nametag)
+
+
+  
   
 
