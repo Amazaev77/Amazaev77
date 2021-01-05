@@ -13,7 +13,7 @@
   
 ### Мои работы:  
   * Приложение чат на React/Redux [КОД](https://github.com/Amazaev77/new-chat) / [ДЕМО](https://pacific-dawn-92338.herokuapp.com/)
-  * Приложение чат на React/Redux [КОД](https://github.com/Amazaev77/test-app) / [ДЕМО](https://shielded-reef-71937.herokuapp.com/)
+  * Приложение тест на React/Redux [КОД](https://github.com/Amazaev77/test-app) / [ДЕМО](https://shielded-reef-71937.herokuapp.com/)
   * Верстки [uber](https://amazaev77.github.io/Uber/) / [home-construction](https://amazaev77.github.io/home-construction/)
   
 ## Связаться со мной
