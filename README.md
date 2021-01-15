@@ -12,7 +12,7 @@
   ![Prettier](https://img.shields.io/badge/Prettier-230f39?style=flat-square&logo=Prettier&logoColor=f6b83c) 
   
 ### Мои работы:  
-  * Приложение чат на React/Redux [КОД](https://github.com/Amazaev77/new-chat) / [ДЕМО](https://pacific-dawn-92338.herokuapp.com/)
+  * Приложение чат на React/Redux [КОД](https://github.com/Amazaev77/new-chat) / [ДЕМО](https://stormy-hollows-82319.herokuapp.com/5f444961a00c98053c489d5a)
   * Приложение тест на React/Redux [КОД](https://github.com/Amazaev77/test-app) / [ДЕМО](https://shielded-reef-71937.herokuapp.com/)
   * Верстки [uber](https://amazaev77.github.io/Uber/) / [home-construction](https://amazaev77.github.io/home-construction/)
   
