@@ -13,10 +13,19 @@
   ![Prettier](https://img.shields.io/badge/Prettier-230f39?style=flat-square&logo=Prettier&logoColor=f6b83c) 
   ![Material-ui](https://img.shields.io/badge/Material--ui-230f39?style=flat-square&logo=Material-ui&logoColor=00b0ff) 
   
-### Мои работы:  
-  * Приложение чат на React/Redux [КОД](https://github.com/Amazaev77/new-chat) / [ДЕМО](https://stormy-hollows-82319.herokuapp.com/5f444961a00c98053c489d5a)
-  * Приложение тест на React/Redux [КОД](https://github.com/Amazaev77/test-app) / [ДЕМО](https://shielded-reef-71937.herokuapp.com/)
-  * Верстки [uber](https://amazaev77.github.io/Uber/) / [home-construction](https://amazaev77.github.io/home-construction/)
+### Мои работы
+
+## Тест ([Код](https://github.com/Amazaev77/test-app))([Демо](https://shielded-reef-71937.herokuapp.com/))
+- выбор теста, прохождение теста / авторизация / добавление теста
+- React / Redux / react-router-dom / json-server / react-hooks
+
+## Чат ([Код](https://github.com/Amazaev77/new-chat)) ([Демо](https://stormy-hollows-82319.herokuapp.com/))
+- отправка сообщений / выбор контакта /информация о контакте / поиск
+- React / Redux / react hooks / react-router-dom
+
+## Учет бюджета ([Код](https://github.com/Amazaev77/budget-app))([Демо](https://fast-badlands-01492.herokuapp.com/))
+- добавление расходов по категориям / удаление и изменение категорий  / расходы за месяц и за все время
+- React / Redux / react-router-dom / Material-ui / react-hooks / json-server
   
 ## Связаться со мной
 
