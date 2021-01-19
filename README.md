@@ -18,7 +18,7 @@
 - выбор теста, прохождение теста / авторизация / добавление теста
 - React / Redux / react-router-dom / json-server / react-hooks
 
-## Чат [Код](https://github.com/Amazaev77/new-chat) / [Демо](https://stormy-hollows-82319.herokuapp.com/)
+## Чат [Код](https://github.com/Amazaev77/new-chat) / [Демо](https://warm-mesa-13617.herokuapp.com/)
 - отправка сообщений / выбор контакта /информация о контакте / поиск
 - React / Redux / react hooks / react-router-dom
 
