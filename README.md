@@ -16,7 +16,7 @@
 
 ## Тест [Код](https://github.com/Amazaev77/test-app) / [Демо](https://shielded-reef-71937.herokuapp.com/)
 - выбор теста, прохождение теста / авторизация / добавление теста
-- React / Redux / react-router-dom / json-server / react-hooks
+- React / Redux / react-router-dom / json-server / react-hooks / styled-components
 
 ## Чат [Код](https://github.com/Amazaev77/new-chat) / [Демо](https://warm-mesa-13617.herokuapp.com/)
 - отправка сообщений / выбор контакта /информация о контакте / поиск
