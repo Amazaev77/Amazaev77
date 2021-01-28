@@ -16,15 +16,15 @@
 
 ## Тест [Код](https://github.com/Amazaev77/quiz-app) / [Демо](https://shielded-reef-71937.herokuapp.com/)
 - выбор теста, прохождение теста / авторизация / добавление теста
-- React / Redux / react-router-dom / json-server / react-hooks / styled-components
+- React / Redux / redux-thunk / react-router-dom / json-server / react-hooks / styled-components
 
 ## Чат [Код](https://github.com/Amazaev77/new-chat) / [Демо](https://warm-mesa-13617.herokuapp.com/)
 - отправка сообщений / выбор контакта /информация о контакте / поиск
-- React / Redux / react hooks / react-router-dom
+- React / Redux / redux-thunk / react hooks / react-router-dom
 
 ## Учет бюджета [Код](https://github.com/Amazaev77/budget-app) / [Демо](https://fast-badlands-01492.herokuapp.com/)
 - добавление расходов по категориям / удаление и изменение категорий  / расходы за месяц и за все время
-- React / Redux / react-router-dom / Material-ui / react-hooks / json-server
+- React / Redux / redux-saga / react-router-dom / Material-ui / react-hooks / json-server
 
 ### Вестки
 - home-construction ([Код](https://github.com/Amazaev77/home-construction))([Демо](https://amazaev77.github.io/home-construction/))
