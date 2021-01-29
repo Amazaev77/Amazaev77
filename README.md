@@ -15,7 +15,7 @@
   
 # Мои работы
 
-## Тест [Код](https://github.com/Amazaev77/quiz-app) / [Демо](https://shielded-reef-71937.herokuapp.com/)
+## Quiz [Код](https://github.com/Amazaev77/quiz-app) / [Демо](https://shielded-reef-71937.herokuapp.com/)
 - выбор теста, прохождение теста / авторизация / добавление теста
 - React / Redux / redux-thunk / react-router-dom / json-server / react-hooks / styled-components
 
