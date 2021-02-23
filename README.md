@@ -1,7 +1,7 @@
 ### Мои навыки:
   ![JavaScript](https://img.shields.io/badge/JavaScript-230f39?style=flat-square&logo=javaScript&logoColor=efd81d) 
   ![React](https://img.shields.io/badge/React-230f39?style=flat-square&logo=react&logoColor=5ed3f3) 
-  ![React](https://img.shields.io/badge/Reactt-230f39?style=flat-square&logo=react&logoColor=5ed3f3) 
+  ![React](https://img.shields.io/badge/react--hook--form-230f39?style=flat-square&logo=react&logoColor=5ed3f3) 
   ![Redux](https://img.shields.io/badge/Redux-230f39?style=flat-square&logo=redux&logoColor=7547b8) 
   ![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-230f39?style=flat-square&logo=Redux&logoColor=ff3929) 
   ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-230f39?style=flat-square&logo=Redux&logoColor=ff3929) 
