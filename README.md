@@ -31,6 +31,11 @@
 ### Вестки
 - home-construction ([Код](https://github.com/Amazaev77/home-construction))([Демо](https://amazaev77.github.io/home-construction/))
 - uber ([Код](https://github.com/Amazaev77/uber))([Демо](https://amazaev77.github.io/Uber/))
+
+## Тестовые задания которые выполнил:
+- Поиск по видео Youtube [Код](https://github.com/Amazaev77/youtube-search-app) / [ДЕМО](https://calm-inlet-15460.herokuapp.com/)
+### Верстки:
+- beco ([Код](https://github.com/Amazaev77/beco))([Демо](https://amazaev77.github.io/beco/))
   
 ## Связаться со мной
 
