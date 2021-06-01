@@ -21,7 +21,7 @@
 - React / Redux / redux-thunk / react-router-dom / json-server / react-hooks / styled-components
 
 ## Чат [Код](https://github.com/Amazaev77/new-chat) / [Демо](https://warm-mesa-13617.herokuapp.com/)
-- отправка сообщений / выбор контакта /информация о контакте / поиск
+- отправка сообщений / выбор контакта / информация о контакте / поиск
 - TypeScript / React / Redux / redux-thunk / react hooks / react-router-dom
 
 ## Учет бюджета [Код](https://github.com/Amazaev77/budget-app) / [Демо](https://fast-badlands-01492.herokuapp.com/)
