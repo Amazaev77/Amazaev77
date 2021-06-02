@@ -20,7 +20,7 @@
 - выбор теста, прохождение теста / авторизация / добавление теста
 - React / Redux / redux-thunk / react-router-dom / json-server / react-hooks / styled-components
 
-## Чат [Код](https://github.com/Amazaev77/new-chat) / [Демо](https://warm-mesa-13617.herokuapp.com/)
+## Чат [Код](https://github.com/Amazaev77/new-chat) / [Демо](https://chat-react-b0a98.web.app/)
 - отправка сообщений / выбор контакта / информация о контакте / поиск
 - TypeScript / React / Redux / redux-thunk / react hooks / react-router-dom / reselect
 
