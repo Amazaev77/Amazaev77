@@ -22,7 +22,7 @@
 
 ## Чат [Код](https://github.com/Amazaev77/new-chat) / [Демо](https://warm-mesa-13617.herokuapp.com/)
 - отправка сообщений / выбор контакта / информация о контакте / поиск
-- TypeScript / React / Redux / redux-thunk / react hooks / react-router-dom
+- TypeScript / React / Redux / redux-thunk / react hooks / react-router-dom / reselect
 
 ## Учет бюджета [Код](https://github.com/Amazaev77/budget-app) / [Демо](https://fast-badlands-01492.herokuapp.com/)
 - добавление расходов по категориям / удаление и изменение категорий  / расходы за месяц и за все время
