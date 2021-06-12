@@ -1,6 +1,6 @@
 ### Мои навыки:
   ![JavaScript](https://img.shields.io/badge/JavaScript-230f39?style=flat-square&logo=javaScript&logoColor=efd81d)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-230f39?style=flat-square&logo=typeScript&logoColor=#3178c6&color=#fff) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-230f39?style=flat-square&logo=typeScript&logoColor=#3178c6) 
   ![React](https://img.shields.io/badge/React-230f39?style=flat-square&logo=react&logoColor=5ed3f3) 
   ![React](https://img.shields.io/badge/react--hook--form-230f39?style=flat-square&logo=react&logoColor=5ed3f3) 
   ![Redux](https://img.shields.io/badge/Redux-230f39?style=flat-square&logo=redux&logoColor=7547b8) 
