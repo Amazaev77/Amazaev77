@@ -26,7 +26,7 @@
 
 ## Учет бюджета [Код](https://github.com/Amazaev77/budget-accounting) / [Демо](https://budjet-accounting-27efa.web.app/)
 - добавление расходов по категориям / удаление и изменение категорий  / расходы за месяц и за все время
-- React / Redux / redux-saga / react-router-dom / Material-ui / react-hooks / json-server
+- TypeScript / React / Redux / redux-thunk / react-router-dom / Material-ui / react-hooks /
 
 ### Вестки
 - home-construction ([Код](https://github.com/Amazaev77/home-construction))([Демо](https://amazaev77.github.io/home-construction/))
