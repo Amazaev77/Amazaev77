@@ -24,7 +24,7 @@
 - отправка сообщений / выбор контакта / информация о контакте / поиск
 - TypeScript / React / Redux / redux-thunk / react hooks / react-router-dom / reselect
 
-## Учет бюджета [Код](https://github.com/Amazaev77/budget-app) / [Демо](https://fast-badlands-01492.herokuapp.com/)
+## Учет бюджета [Код](https://github.com/Amazaev77/budget-accounting) / [Демо](https://budjet-accounting-27efa.web.app/)
 - добавление расходов по категориям / удаление и изменение категорий  / расходы за месяц и за все время
 - React / Redux / redux-saga / react-router-dom / Material-ui / react-hooks / json-server
 
